@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @nicortenorio
-- 👀 I’m interested in games
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Bem vindos ao meu perfil♟️
+_Meu nome é Nicolly_
 
-<!---
-nicortenorio/nicortenorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Estou estudando na Alura
+
+- Estou estudando linguagem JavaScript
+
+- Uso esse espaço para compartilhar meus projetos feitos na escola
+
+
+![](https://media.tenor.com/CjAdhjtAtdwAAAAC/robin-superboy.gif)
